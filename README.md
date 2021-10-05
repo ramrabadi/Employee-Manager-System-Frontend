@@ -1,4 +1,4 @@
-# Front-end for Employee Manager System
+# Front-end for Employee Manager System 🧑‍💼
 
 This repository hosts the front-end for the Employee Manager System application.
 It is built with Angular. 
